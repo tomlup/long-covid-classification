@@ -10,6 +10,8 @@ Running the notebook assumes that the .XPT data file is unzipped into the same d
 
 Running the notebook from start to finish will recreate our experiments described in the notebook and writeup.
 
+Our Presentation: https://docs.google.com/presentation/d/13H7b1Rvtt-7xbSBa2TnNbZl5VBgsgCobczLfJ4cjrgw/edit?usp=sharing
+
 Required libraries:
 numpy
 pandas
